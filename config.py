@@ -14,9 +14,9 @@ network = {
     'SSL': False,
     'ipv6': False,
     'channels': ['#radio'],
-    'bot_nick': 'SwissArmy',
-    'bot_name': 'Swiss Army IRC bot by Deshi & Arisance  Version 1.19',
-    'password': 'master'
+    'bot_nick': 'ShoutIRC',
+    'bot_name': 'shoutcast to IRC by Deshi  Version 1.19',
+    'password': 'XXXX'
 }
 
 shoutcast = {
